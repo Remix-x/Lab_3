@@ -171,12 +171,19 @@ function runAllFunctions(transactions) {
 ---
 
 <img width="1162" height="609" alt="image" src="https://github.com/user-attachments/assets/4e95c510-79d5-4a2d-a973-3483fc60ec6a" />
+
 ---
+
 <img width="1159" height="598" alt="image" src="https://github.com/user-attachments/assets/6cea5f54-8d25-4212-9f6a-2ec1bf02d1f1" />
+
 ---
+
 <img width="1151" height="602" alt="image" src="https://github.com/user-attachments/assets/975c1587-3f1c-429c-b299-f6e0b7a5884d" />
+
 ---
+
 <img width="1168" height="484" alt="image" src="https://github.com/user-attachments/assets/4f9c6520-3ebc-4a01-b668-fb72fe5f40b8" />
+
 ---
 
 # Результат только с одной транзакцией:
