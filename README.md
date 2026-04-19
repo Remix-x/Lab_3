@@ -165,20 +165,25 @@ function runAllFunctions(transactions) {
     console.log("--- Проверка завершена ---");
 }
 ```
-Результаты консоли:
+# Результаты консоли:
 <img width="1162" height="611" alt="image" src="https://github.com/user-attachments/assets/64f124e8-d09f-42b3-8483-b84a957c3450" />
+---
 <img width="1162" height="609" alt="image" src="https://github.com/user-attachments/assets/4e95c510-79d5-4a2d-a973-3483fc60ec6a" />
+---
 <img width="1159" height="598" alt="image" src="https://github.com/user-attachments/assets/6cea5f54-8d25-4212-9f6a-2ec1bf02d1f1" />
+---
 <img width="1151" height="602" alt="image" src="https://github.com/user-attachments/assets/975c1587-3f1c-429c-b299-f6e0b7a5884d" />
+---
 <img width="1168" height="484" alt="image" src="https://github.com/user-attachments/assets/4f9c6520-3ebc-4a01-b668-fb72fe5f40b8" />
+---
 
-Результат только с одной транзакцией:
+# Результат только с одной транзакцией:
 <img width="1175" height="652" alt="image" src="https://github.com/user-attachments/assets/d77e34f2-b050-43b6-b179-70f112af7926" />
 
-Результат работы с пустым массивом:
+# Результат работы с пустым массивом:
 <img width="1194" height="284" alt="image" src="https://github.com/user-attachments/assets/c86e1750-8092-4560-9543-e11fa4904c9a" />
 
-## 1. Методы массивов для обработки объектов в JavaScript
+## 1. Какие методы массивов можно использовать для обработки объектов в JavaScript?
 
 При работе с массивами объектов в JavaScript чаще всего используются встроенные методы, которые позволяют удобно обрабатывать данные без написания классических циклов.
 
@@ -192,7 +197,7 @@ function runAllFunctions(transactions) {
 
 ---
 
-## 2. Сравнение дат в строковом формате
+## 2. Как сравнивать даты в строковом формате в JavaScript?
 
 В JavaScript даты в строковом формате можно сравнивать несколькими способами, но важно учитывать формат строки.
 
@@ -206,7 +211,7 @@ function runAllFunctions(transactions) {
 
 ---
 
-## 3. Разница между map(), filter() и reduce()
+## 3. В чем разница между map(), filter() и reduce() при работе с массивами объектов?
 
 Методы `map()`, `filter()` и `reduce()` часто используются вместе, но выполняют разные задачи.
 
