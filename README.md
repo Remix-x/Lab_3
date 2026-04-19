@@ -4,12 +4,12 @@
 Цель работы:
 Изучить основы работы с массивами и функциями в JavaScript, применяя их для обработки и анализа транзакций.
 
-Первый этап.
+## Первый этап.
 Создаем файл main в котором будет находиться массив объектов с разными данными. Для примера возьмем готовый массив.
 
 <img width="680" height="900" alt="image" src="https://github.com/user-attachments/assets/4c860808-5fe2-4d26-b610-5a59b8d0a0ab" />
 
-Второй этап.
+## Второй этап.
 Нужно реализовать функции для работы с этим массивом:<br>
 1.Функция, которая возвращает только уникальные типы транзакций:
 ```js 
@@ -140,8 +140,8 @@ function mapTransactionDescriptions(transactions) {
     return transactions.map(t => t.transaction_description);
 }
 ```
-
-#Чтобы проверить все функции я написал функцию, которая будет выводить в консоль все функции:
+### Этап третий.
+# Чтобы проверить все функции я написал функцию, которая будет выводить в консоль все функции:
 ```js
 function runAllFunctions(transactions) {
     console.log("--- Результаты всех функций ---");
@@ -167,7 +167,9 @@ function runAllFunctions(transactions) {
 ```
 # Результаты консоли:
 <img width="1162" height="611" alt="image" src="https://github.com/user-attachments/assets/64f124e8-d09f-42b3-8483-b84a957c3450" />
+
 ---
+
 <img width="1162" height="609" alt="image" src="https://github.com/user-attachments/assets/4e95c510-79d5-4a2d-a973-3483fc60ec6a" />
 ---
 <img width="1159" height="598" alt="image" src="https://github.com/user-attachments/assets/6cea5f54-8d25-4212-9f6a-2ec1bf02d1f1" />
