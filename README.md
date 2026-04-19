@@ -1,6 +1,6 @@
 # Lab_3
 **Cranopol Andrei, I2502**
-### Основы работы с массивами, функциями и объектами в JavaScript
+# Основы работы с массивами, функциями и объектами в JavaScript
 Цель работы:
 Изучить основы работы с массивами и функциями в JavaScript, применяя их для обработки и анализа транзакций.
 
@@ -140,8 +140,8 @@ function mapTransactionDescriptions(transactions) {
     return transactions.map(t => t.transaction_description);
 }
 ```
-### Этап третий.
-# Чтобы проверить все функции я написал функцию, которая будет выводить в консоль все функции:
+## Этап третий.
+### Чтобы проверить все функции я написал функцию, которая будет выводить в консоль все функции:
 ```js
 function runAllFunctions(transactions) {
     console.log("--- Результаты всех функций ---");
@@ -165,7 +165,7 @@ function runAllFunctions(transactions) {
     console.log("--- Проверка завершена ---");
 }
 ```
-# Результаты консоли:
+### Результаты консоли:
 <img width="1162" height="611" alt="image" src="https://github.com/user-attachments/assets/64f124e8-d09f-42b3-8483-b84a957c3450" />
 
 ---
@@ -186,10 +186,10 @@ function runAllFunctions(transactions) {
 
 ---
 
-# Результат только с одной транзакцией:
+### Результат только с одной транзакцией:
 <img width="1175" height="652" alt="image" src="https://github.com/user-attachments/assets/d77e34f2-b050-43b6-b179-70f112af7926" />
 
-# Результат работы с пустым массивом:
+### Результат работы с пустым массивом:
 <img width="1194" height="284" alt="image" src="https://github.com/user-attachments/assets/c86e1750-8092-4560-9543-e11fa4904c9a" />
 
 ## 1. Какие методы массивов можно использовать для обработки объектов в JavaScript?
@@ -206,7 +206,7 @@ function runAllFunctions(transactions) {
 
 ---
 
-## 2. Как сравнивать даты в строковом формате в JavaScript?
+### 2. Как сравнивать даты в строковом формате в JavaScript?
 
 В JavaScript даты в строковом формате можно сравнивать несколькими способами, но важно учитывать формат строки.
 
@@ -220,7 +220,7 @@ function runAllFunctions(transactions) {
 
 ---
 
-## 3. В чем разница между map(), filter() и reduce() при работе с массивами объектов?
+### 3. В чем разница между map(), filter() и reduce() при работе с массивами объектов?
 
 Методы `map()`, `filter()` и `reduce()` часто используются вместе, но выполняют разные задачи.
 
